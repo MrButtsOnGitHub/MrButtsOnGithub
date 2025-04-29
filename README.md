@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and detail-oriented Computer Science student specializing in Artificial Intelligence at Asia Pacific University
+Hello! Im a Comp Sci student with specializations in Artificial Intelligence. The point of my Github page is a public portfolio of all/most of my projects! Enjoy your stay!
 
 
 # 💻 Tech Stack:
